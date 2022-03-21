@@ -8,7 +8,7 @@ In this challenge we helped Dana create a website about UFO sightings. We did th
 
 ![storyboard](https://user-images.githubusercontent.com/95899763/159205861-6040c733-c4c4-4e08-bfa1-5a327f6613bd.PNG)
 
-This is the initial storyboard website idea provided by Dana.
+- This is the initial storyboard website idea provided by Dana.
 
 ![Website](https://user-images.githubusercontent.com/95899763/159205968-74526c5c-9427-4657-9702-a00079bf31ca.PNG)
 
@@ -18,6 +18,10 @@ This is the initial storyboard website idea provided by Dana.
   - The left has the header "UFO Sightings: Fact of Fancy?" and the right contains the article itself.
 - Below this we again divide the section into three columns on the right and nine columns on the left.
   - The right side contains the filters; the user can input the information they are looking for and it will auto filter the     table to the right based on what was inputted.
+
+![image](https://user-images.githubusercontent.com/95899763/159207441-cb7428a3-a07e-435b-bd61-548f90af2826.png)
+
+- Exmaple of filtering the sightings data. 
 
 # Summary
 
