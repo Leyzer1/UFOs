@@ -21,7 +21,7 @@ In this challenge we helped Dana create a website about UFO sightings. We did th
 
 ![image](https://user-images.githubusercontent.com/95899763/159207441-cb7428a3-a07e-435b-bd61-548f90af2826.png)
 
-- Exmaple of filtering the sightings data. 
+- Example of filtering the sightings data. 
 
 # Summary
 
